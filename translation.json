@@ -1,0 +1,330 @@
+{
+    "sa": {
+        "morning": "صباح الخير! أتمنى لك يوماً رائعاً!",
+        "afternoon": "مساء الخير! نأمل أن تستمتع بوقتك!",
+        "evening": "مساء الخير! أتمنى لك مساءً سعيداً!",
+        "night": "تصبح على خير! نأمل أن تكون ليلتك رائعة!"
+    },
+    "ae": {
+        "morning": "صباح الخير! نتمنى لك يوماً جميلاً!",
+        "afternoon": "مساء الخير! نتمنى لك قضاء وقت ممتع!",
+        "evening": "مساء الخير! نتمنى لك مساءً لطيفاً!",
+        "night": "تصبح على خير! نأمل أن تنام نوم هنيئاً!"
+    },
+    "kw": {
+        "morning": "صباح الخير! أتمنى لك يوماً سعيداً!",
+        "afternoon": "مساء الخير! نأمل أن تستمتع بوقتك!",
+        "evening": "مساء الخير! أتمنى لك مساءً جميلاً!",
+        "night": "تصبح على خير! نأمل أن تكون ليلتك مريحة!"
+    },
+    "qa": {
+        "morning": "صباح الخير! نتمنى لك يوماً طيباً!",
+        "afternoon": "مساء الخير! نأمل أن يكون وقتك ممتعاً!",
+        "evening": "مساء الخير! نتمنى لك مساءً هادئاً!",
+        "night": "تصبح على خير! نأمل أن تكون ليلتك مريحة!"
+    },
+    "om": {
+        "morning": "صباح الخير! أتمنى لك يوماً رائعاً!",
+        "afternoon": "مساء الخير! نأمل أن تستمتع بوقتك!",
+        "evening": "مساء الخير! نتمنى لك مساءً طيباً!",
+        "night": "تصبح على خير! نأمل أن تكون ليلتك هادئة!"
+    },
+    "bh": {
+        "morning": "صباح الخير! نأمل أن يكون يومك رائعاً!",
+        "afternoon": "مساء الخير! نتمنى لك وقتاً ممتعاً!",
+        "evening": "مساء الخير! نتمنى لك مساءً سعيداً!",
+        "night": "تصبح على خير! نأمل أن تنام نوم هنيئاً!"
+    },
+    "ma": {
+        "morning": "صباح الخير! أتمنى لك يوماً جيداً!",
+        "afternoon": "مساء الخير! نتمنى لك قضاء وقت ممتع!",
+        "evening": "مساء الخير! نأمل أن يكون مساءك جميلاً!",
+        "night": "تصبح على خير! نأمل أن تنام بسلام!"
+    },
+    "default": {
+        "morning": "Good morning! Have a wonderful day!",
+        "afternoon": "Good afternoon! We hope you are enjoying your time!",
+        "evening": "Good evening! Have a nice evening!",
+        "night": "Good night! We hope you have a good night!"
+    }
+}
+{
+    "sa": {
+        "reviewText": "مصنفة بدرجة عالية من قبل العملاء",
+        "ratings": "9.2K | ❤️ 2.4M"
+    },
+    "ae": {
+        "reviewText": "مُصنفة بدرجة عالية من قبل العملاء",
+        "ratings": "9.2K | ❤️ 2.4M"
+    },
+    "kw": {
+        "reviewText": "مُصنفة بدرجة عالية من قبل الزبائن",
+        "ratings": "9.2K | ❤️ 2.4M"
+    },
+    "qa": {
+        "reviewText": "مُصنفة بدرجة عالية من قبل العملاء",
+        "ratings": "9.2K | ❤️ 2.4M"
+    },
+    "om": {
+        "reviewText": "مصنفة بدرجة عالية من قبل الزبائن",
+        "ratings": "9.2K | ❤️ 2.4M"
+    },
+    "bh": {
+        "reviewText": "مُصنفة بدرجة عالية من قبل العملاء",
+        "ratings": "9.2K | ❤️ 2.4M"
+    },
+    "ma": {
+        "reviewText": "مُصنفة بدرجة عالية من قبل الزبائن",
+        "ratings": "9.2K | ❤️ 2.4M"
+    },
+    "default": {
+        "reviewText": "Highly rated by customers",
+        "ratings": "9.2K | ❤️ 2.4M"
+    }
+}
+{
+    "sa": {
+        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+        "originalPrice": "$86.99",
+        "discountedPrice": "$16.99",
+        "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+        "days": "أيام",
+        "hours": "ساعات",
+        "minutes": "دقائق",
+        "seconds": "ثواني"
+    },
+    "ae": {
+        "offerMessage": "عجل قبل أن ينفد: الخصومات على هذه الخدمة على وشك الانتهاء! الوقت المتبقي لإنهاء العرض:",
+        "originalPrice": "$86.99",
+        "discountedPrice": "$16.99",
+        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+        "days": "أيام",
+        "hours": "ساعات",
+        "minutes": "دقائق",
+        "seconds": "ثواني"
+    },
+    "kw": {
+        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+        "originalPrice": "$86.99",
+        "discountedPrice": "$16.99",
+        "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+        "days": "أيام",
+        "hours": "ساعات",
+        "minutes": "دقائق",
+        "seconds": "ثواني"
+    },
+    "qa": {
+        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+        "originalPrice": "$86.99",
+        "discountedPrice": "$16.99",
+        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+        "days": "أيام",
+        "hours": "ساعات",
+        "minutes": "دقائق",
+        "seconds": "ثواني"
+    },
+    "om": {
+        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+        "originalPrice": "$86.99",
+        "discountedPrice": "$16.99",
+        "viewersText": "عرضه الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+        "days": "أيام",
+        "hours": "ساعات",
+        "minutes": "دقائق",
+        "seconds": "ثواني"
+    },
+    "bh": {
+        "offerMessage": "عجل قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+        "originalPrice": "$86.99",
+        "discountedPrice": "$16.99",
+        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+        "days": "أيام",
+        "hours": "ساعات",
+        "minutes": "دقائق",
+        "seconds": "ثواني"
+    },
+    "ma": {
+        "offerMessage": "سارع قبل أن ينفد: الخصومات على هذه الخدمة ستنتهي قريبًا! الوقت المتبقي لإنهاء العرض:",
+        "originalPrice": "$86.99",
+        "discountedPrice": "$16.99",
+        "viewersText": "شاهده الآن في المتصفح <span class='viewer-count'>230</span> شخص.",
+        "days": "أيام",
+        "hours": "ساعات",
+        "minutes": "دقائق",
+        "seconds": "ثواني"
+    },
+    "default": {
+        "offerMessage": "Hurry before it's gone: Discounts on this service are about to end! Time left for this offer to end:",
+        "originalPrice": "$86.99",
+        "discountedPrice": "$16.99",
+        "viewersText": "View it in browser now <span class='viewer-count'>230</span> people.",
+        "days": "Days",
+        "hours": "Hours",
+        "minutes": "Minutes",
+        "seconds": "Seconds"
+    }
+}
+{
+    "sa": {
+        "subscriptionTitle": "اختر خطة الاشتراك",
+        "subscriptionOptions": [
+            "شهر واحد | 29.99 دولار",
+            "3 أشهر | 159.99 دولار",
+            "12 شهراً | 299.99 دولار",
+            "مدى الحياة | 16.99 دولار"
+        ],
+        "almostSoldOut": "تقريباً نفد من المخزون"
+    },
+    "ae": {
+        "subscriptionTitle": "اختر خطة الاشتراك",
+        "subscriptionOptions": [
+            "شهر واحد | 29.99 دولار",
+            "3 أشهر | 159.99 دولار",
+            "12 شهراً | 299.99 دولار",
+            "مدى الحياة | 16.99 دولار"
+        ],
+        "almostSoldOut": "تقريباً نفد من المخزون"
+    },
+    "kw": {
+        "subscriptionTitle": "اختر خطة الاشتراك",
+        "subscriptionOptions": [
+            "شهر واحد | 29.99 دولار",
+            "3 أشهر | 159.99 دولار",
+            "12 شهراً | 299.99 دولار",
+            "مدى الحياة | 16.99 دولار"
+        ],
+        "almostSoldOut": "تقريباً نفد من المخزون"
+    },
+    "qa": {
+        "subscriptionTitle": "اختر خطة الاشتراك",
+        "subscriptionOptions": [
+            "شهر واحد | 29.99 دولار",
+            "3 أشهر | 159.99 دولار",
+            "12 شهراً | 299.99 دولار",
+            "مدى الحياة | 16.99 دولار"
+        ],
+        "almostSoldOut": "تقريباً نفد من المخزون"
+    },
+    "om": {
+        "subscriptionTitle": "اختر خطة الاشتراك",
+        "subscriptionOptions": [
+            "شهر واحد | 29.99 دولار",
+            "3 أشهر | 159.99 دولار",
+            "12 شهراً | 299.99 دولار",
+            "مدى الحياة | 16.99 دولار"
+        ],
+        "almostSoldOut": "تقريباً نفد من المخزون"
+    },
+    "bh": {
+        "subscriptionTitle": "اختر خطة الاشتراك",
+        "subscriptionOptions": [
+            "شهر واحد | 29.99 دولار",
+            "3 أشهر | 159.99 دولار",
+            "12 شهراً | 299.99 دولار",
+            "مدى الحياة | 16.99 دولار"
+        ],
+        "almostSoldOut": "تقريباً نفد من المخزون"
+    },
+    "ma": {
+        "subscriptionTitle": "اختر خطة الاشتراك",
+        "subscriptionOptions": [
+            "شهر واحد | 29.99 دولار",
+            "3 أشهر | 159.99 دولار",
+            "12 شهراً | 299.99 دولار",
+            "مدى الحياة | 16.99 دولار"
+        ],
+        "almostSoldOut": "تقريباً نفد من المخزون"
+    },
+    "default": {
+        "subscriptionTitle": "Choose Subscription plan",
+        "subscriptionOptions": [
+            "1 month | $29.99",
+            "3 month | $159.99",
+            "12 month | $299.99",
+            "Lifetime | $16.99"
+        ],
+        "almostSoldOut": "Almost sold out"
+    }
+}
+{
+    "sa": {
+        "faq1": {
+            "question": "⏳ ما هو وقت التسليم؟",
+            "answer": "المنتجات على موقع Bazaar Tech بعد الدفع يتم تسليمها يدويًا عبر WhatsApp أو البريد الإلكتروني. <br><br>تسليم الطلبات يعتمد على نوع الاشتراك وعادةً لا يتجاوز 8 ساعات خلال ساعات العمل."
+        },
+        "faq2": {
+            "question": "⌚ ما هي ساعات العمل؟",
+            "answer": "ساعات العمل من 9 صباحًا إلى 9 مساءً، مع بدء بعض الطلبات بالمعالجة من الساعة 12 صباحًا."
+        }
+    },
+    "ae": {
+        "faq1": {
+            "question": "⏳ ما هو وقت التسليم؟",
+            "answer": "المنتجات على موقع Bazaar Tech بعد الدفع يتم تسليمها يدويًا عبر WhatsApp أو البريد الإلكتروني. <br><br>تسليم الطلبات يعتمد على نوع الاشتراك وعادةً لا يتجاوز 8 ساعات خلال ساعات العمل."
+        },
+        "faq2": {
+            "question": "⌚ ما هي ساعات العمل؟",
+            "answer": "ساعات العمل من 9 صباحًا إلى 9 مساءً، مع بدء بعض الطلبات بالمعالجة من الساعة 12 صباحًا."
+        }
+    },
+    "kw": {
+        "faq1": {
+            "question": "⏳ ما هو وقت التسليم؟",
+            "answer": "المنتجات على موقع Bazaar Tech بعد الدفع يتم تسليمها يدويًا عبر WhatsApp أو البريد الإلكتروني. <br><br>تسليم الطلبات يعتمد على نوع الاشتراك وعادةً لا يتجاوز 8 ساعات خلال ساعات العمل."
+        },
+        "faq2": {
+            "question": "⌚ ما هي ساعات العمل؟",
+            "answer": "ساعات العمل من 9 صباحًا إلى 9 مساءً، مع بدء بعض الطلبات بالمعالجة من الساعة 12 صباحًا."
+        }
+    },
+    "qa": {
+        "faq1": {
+            "question": "⏳ ما هو وقت التسليم؟",
+            "answer": "المنتجات على موقع Bazaar Tech بعد الدفع يتم تسليمها يدويًا عبر WhatsApp أو البريد الإلكتروني. <br><br>تسليم الطلبات يعتمد على نوع الاشتراك وعادةً لا يتجاوز 8 ساعات خلال ساعات العمل."
+        },
+        "faq2": {
+            "question": "⌚ ما هي ساعات العمل؟",
+            "answer": "ساعات العمل من 9 صباحًا إلى 9 مساءً، مع بدء بعض الطلبات بالمعالجة من الساعة 12 صباحًا."
+        }
+    },
+    "om": {
+        "faq1": {
+            "question": "⏳ ما هو وقت التسليم؟",
+            "answer": "المنتجات على موقع Bazaar Tech بعد الدفع يتم تسليمها يدويًا عبر WhatsApp أو البريد الإلكتروني. <br><br>تسليم الطلبات يعتمد على نوع الاشتراك وعادةً لا يتجاوز 8 ساعات خلال ساعات العمل."
+        },
+        "faq2": {
+            "question": "⌚ ما هي ساعات العمل؟",
+            "answer": "ساعات العمل من 9 صباحًا إلى 9 مساءً، مع بدء بعض الطلبات بالمعالجة من الساعة 12 صباحًا."
+        }
+    },
+    "bh": {
+        "faq1": {
+            "question": "⏳ ما هو وقت التسليم؟",
+            "answer": "المنتجات على موقع Bazaar Tech بعد الدفع يتم تسليمها يدويًا عبر WhatsApp أو البريد الإلكتروني. <br><br>تسليم الطلبات يعتمد على نوع الاشتراك وعادةً لا يتجاوز 8 ساعات خلال ساعات العمل."
+        },
+        "faq2": {
+            "question": "⌚ ما هي ساعات العمل؟",
+            "answer": "ساعات العمل من 9 صباحًا إلى 9 مساءً، مع بدء بعض الطلبات بالمعالجة من الساعة 12 صباحًا."
+        }
+    },
+    "ma": {
+        "faq1": {
+            "question": "⏳ ما هو وقت التسليم؟",
+            "answer": "المنتجات على موقع Bazaar Tech بعد الدفع يتم تسليمها يدويًا عبر WhatsApp أو البريد الإلكتروني. <br><br>تسليم الطلبات يعتمد على نوع الاشتراك وعادةً لا يتجاوز 8 ساعات خلال ساعات العمل."
+        },
+        "faq2": {
+            "question": "⌚ ما هي ساعات العمل؟",
+            "answer": "ساعات العمل من 9 صباحًا إلى 9 مساءً، مع بدء بعض الطلبات بالمعالجة من الساعة 12 صباحًا."
+        }
+    },
+    "default": {
+        "faq1": {
+            "question": "⏳ What is the delivery time?",
+            "answer": "Products on Bazaar Tech website after payment are delivered manually via WhatsApp or Email <br><br>Delivery of orders depends on the type of subscription and usually does not exceed 8 hours during working hours."
+        },
+        "faq2": {
+            "question": "⌚ What are the working hours?",
+            "answer": "Working hours are from 9 AM to 9 PM, with some orders starting to be processed from 12 AM."
+        }
+    }
+}
